@@ -28,7 +28,7 @@
     "react": "~0.13.0",
     "react-docgen": "3.0.0-beta4",
     "react-page-middleware": "0.4.1",
-    "remove-markdown": "^0.1.0",
+    "remove-markdown": "^0.3.0",
     "request": "^2.69.0",
     "semver-compare": "^1.0.0"
   },
