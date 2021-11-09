@@ -41,7 +41,7 @@
     "jsdom": "^9.10.0",
     "prettier": "^1.0.0",
     "react": "16.0.0-alpha.12",
-    "react-native": "~0.45.0",
+    "react-native": "~0.47.0",
     "three": "^0.85.2",
     "three-gltf2-loader": "^1.0.0"
   },
